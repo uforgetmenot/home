@@ -67,6 +67,20 @@
         "icon": "sticky_note_2",
         "href": "#",
         "active": false
+      },
+      {
+        "id": "research",
+        "label": "调研",
+        "icon": "search",
+        "href": "#",
+        "active": false
+      },
+      {
+        "id": "news",
+        "label": "资讯",
+        "icon": "feed",
+        "href": "#",
+        "active": false
       }
     ],
     "status": {
@@ -227,6 +241,15 @@
           "subtitle": "模型接口",
           "description": "提供多模型接入的统一 API 平台。",
           "href": "https://yunwu.ai/"
+        },
+        {
+          "icon": "code",
+          "iconBgClass": "bg-violet-100",
+          "iconColorClass": "text-violet-500",
+          "title": "AICodeMirror",
+          "subtitle": "代码镜像",
+          "description": "AI 驱动的代码生成与优化平台。",
+          "href": "https://www.aicodemirror.com/"
         }
       ]
     },
@@ -334,6 +357,65 @@
           "subtitle": "个人知识库",
           "description": "沉淀开发经验与学习笔记的站点。",
           "href": "https://dev.131494.xyz/"
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "type": "grid",
+      "title": "调研平台",
+      "cards": [
+        {
+          "icon": "work",
+          "iconBgClass": "bg-green-100",
+          "iconColorClass": "text-green-500",
+          "title": "BOSS直聘",
+          "subtitle": "招聘平台",
+          "description": "产品经理岗位招聘信息与行业动态。",
+          "href": "https://www.zhipin.com/web/geek/jobs?city=101270100&query=%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86"
+        },
+        {
+          "icon": "business_center",
+          "iconBgClass": "bg-blue-100",
+          "iconColorClass": "text-blue-500",
+          "title": "智联招聘",
+          "subtitle": "求职平台",
+          "description": "专业的职场招聘与人才服务平台。",
+          "href": "https://www.zhaopin.com/sou/jl801/kw9QJL9GBUPTQ0C/p1"
+        },
+        {
+          "icon": "groups",
+          "iconBgClass": "bg-indigo-100",
+          "iconColorClass": "text-indigo-500",
+          "title": "领英",
+          "subtitle": "职业网络",
+          "description": "全球领先的职业社交与招聘平台。",
+          "href": "https://www.linkedin.com/jobs/search/?currentJobId=4317462255&geoId=103644278&keywords=Product%20Manager&origin=JOB_SEARCH_PAGE_SEARCH_BUTTON&refresh=true"
+        }
+      ]
+    },
+    {
+      "id": "news",
+      "type": "grid",
+      "title": "资讯平台",
+      "cards": [
+        {
+          "icon": "public",
+          "iconBgClass": "bg-orange-100",
+          "iconColorClass": "text-orange-500",
+          "title": "知识星球",
+          "subtitle": "知识社区",
+          "description": "高质量的知识分享与付费社群平台。",
+          "href": "https://zsxq.com/"
+        },
+        {
+          "icon": "psychology",
+          "iconBgClass": "bg-teal-100",
+          "iconColorClass": "text-teal-500",
+          "title": "IndieHackers",
+          "subtitle": "独立开发",
+          "description": "独立开发者社区与创业经验分享。",
+          "href": "https://www.indiehackers.com/"
         }
       ]
     }
