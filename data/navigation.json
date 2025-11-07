@@ -416,6 +416,15 @@
           "subtitle": "独立开发",
           "description": "独立开发者社区与创业经验分享。",
           "href": "https://www.indiehackers.com/"
+        },
+        {
+          "icon": "launch",
+          "iconBgClass": "bg-red-100",
+          "iconColorClass": "text-red-500",
+          "title": "ProductHunt",
+          "subtitle": "产品发现",
+          "description": "发现最新产品与创新项目的社区平台。",
+          "href": "https://www.producthunt.com/categories?ref=header_nav"
         }
       ]
     }
